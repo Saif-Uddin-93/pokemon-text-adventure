@@ -46,7 +46,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Credits
 
 [@LazySusanoo](https://github.com/LazySusanoo) - initial stages of project created as student pair project.<br>
-@lazySusanoo and myself do not hold any ownership of Pokémon<br>
+[@LazySusanoo](https://github.com/LazySusanoo) and myself do not hold any ownership of Pokémon<br>
 Pokémon was created by Satoshi Tajiri<br>
 Pokémon is owned by [Nintendo](https://www.nintendo.com/), [Creatures](https://www.creatures.co.jp/en/), [Game Freak](https://www.gamefreak.co.jp/)
 
